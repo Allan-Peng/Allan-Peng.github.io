@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Course Units(課程單元)"
-categories: course
+title:  "Assignments"
+categories: Assignments
 tags:  Units  
 author: Allan
 ---
