@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Download Course Materials"
-categories: Course&nbsp;materials
+categories: Download&nbsp;Course&nbsp;materials
 tags:  Units  
 author: Allan
 ---

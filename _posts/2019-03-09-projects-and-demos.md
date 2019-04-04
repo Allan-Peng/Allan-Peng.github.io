@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Projects and Demostrations"
-categories: Projects&nbsp;Demos
+categories: Projects&nbsp;and&nbsp;Demos
 tags:  Units  
 author: Allan
 ---
