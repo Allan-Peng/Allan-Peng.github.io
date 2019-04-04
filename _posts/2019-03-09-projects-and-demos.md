@@ -9,23 +9,13 @@ author: Allan
 * content
 {:toc}
 
-## CU(1) Course requirements, evaluation & organization.
-<A href="\resources\PPT\UML training.pptx">UML training</a>
-
-## CU(2) The Strategy Pattern
-
-## CU(3) The Observer Pattern
-
-## CU(4) The Decorator Pattern
-
-## CU(5) The Factory Pattern
-
-## CU(6) The Singleton Pattern
-
-## CU(7) The Command Pattern
-
-## CU(8) The Adapter and Facade Patterns
-
-## CU(9) The Template Method Pattern
-
-## CU(10) The State Pattern
+## the Strategy pattern
+## the Observer Pattern
+## the Decorator Pattern
+## the Factory Pattern
+## the Singleton Pattern
+## Level-4 Project
+## the Command Pattern
+## the Adapter and Facade Patterns
+## the Template Method Pattern
+## the State Pattern
